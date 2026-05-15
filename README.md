@@ -1,3 +1,5 @@
+This software is provided free of charge for personal, non-commercial use only.
+
 # Continuo
 
 **Pen plotter scribble art generator**
